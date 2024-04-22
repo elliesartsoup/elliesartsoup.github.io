@@ -299,7 +299,12 @@ transition: .5s all;
     align-items: center;
     justify-content: center;
     transition: .5s all;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
 
+.container h1{
+        color: #945419;
 }
 
 /*about*/
@@ -309,6 +314,13 @@ transition: .5s all;
 }
 
 /*faq*/
+.faq2{
+padding-top: 25px;
+padding-bottom: 25px;
+}
+.faq2 h1{
+    color: #945419;
+}
 .accordion{
     padding: 20px;
 }
@@ -350,10 +362,6 @@ table {
   }
 
 /*contact*/
-.contactform{
-    padding: 20px;
-}
-
 .btn-success{
     background-color: #7E8772;
     border-color: #945419;
